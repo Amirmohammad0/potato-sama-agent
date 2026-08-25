@@ -8,6 +8,7 @@
     "start": "next start"
   },
   "dependencies": {
+    "@modelcontextprotocol/sdk": "latest",
     "@vercel/sandbox": "latest",
     "next": "latest",
     "react": "latest",
